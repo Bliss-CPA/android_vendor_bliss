@@ -285,9 +285,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     BUILD_DISPLAY_ID=$(BUILD_ID) \
     ro.bliss.version=$(BLISS_VERSION)
-<<<<<<< HEAD
-=======
-
--include vendor/bliss/config/sm.mk
-
->>>>>>> parent of 35b19ca... Re-added build details processing. BoardConfig.mk must call sm.mk at end of file now!
